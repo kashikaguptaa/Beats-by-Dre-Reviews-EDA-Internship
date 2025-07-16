@@ -57,4 +57,4 @@ This project not only sharpened my data analytics and NLP skills but also gave m
 
 **Kashika Gupta**  
 B.A. (Hons) Economics | B.S. Data Science (IIT Madras)  
-Data Science Intern – Beats by Dre (Jul–Sept 2024)
+Data Analyst Intern – Beats by Dre (Jul–Sept 2024)
